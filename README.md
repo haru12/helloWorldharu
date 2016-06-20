@@ -1,7 +1,5 @@
 # helloWorldharu
-test github
-<p>hi~^^</p>
-<div>haru</div>
+
 바다는 어디?
 강물은 어디?
 또랑은 어디?
